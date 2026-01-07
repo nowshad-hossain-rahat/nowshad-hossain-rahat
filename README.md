@@ -45,15 +45,6 @@ I'm a **Top Rated Freelancer on Upwork**, who build secure, zero-knowledge SaaS 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowshad-hossain-rahat&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=gold&icon_color=gold" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowshad-hossain-rahat&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=gold&lang_count=6" alt="Top Languages" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
