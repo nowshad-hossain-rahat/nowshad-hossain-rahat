@@ -8,16 +8,29 @@ I'm a **Top Rated Freelancer on Upwork**, who build secure, zero-knowledge SaaS 
 ## 🚀 What I'm Building Right Now
 
 ### 🔐 **Encrypted Clipboard Manager** (SaaS)
+
 > *A Zero-Knowledge, End-to-End Encrypted Clipboard Sync tool.*
+
 * **The Problem:** Existing clipboard tools send your passwords and keys to their servers in plain text.
-* **The Solution:** A secure vault that encrypts data **locally** (AES-GCM) before it ever touches the cloud. Syncs between Desktop and Mobile via a secure PWA.
+* **The Solution:** A secure vault that encrypts data **locally** (AES-GCM) before it ever touches the cloud. Syncs seamlessly between your **Chrome Extension** and a **Secure Web Dashboard** accessible from any device (Mobile or Desktop).
 * **Tech Stack:** Nuxt 4, Node.js, IndexedDB, Web Crypto API.
 * 👉 **[Check out the App](https://encryptedclipboard.app)**
 
 ### 🛠️ **ELSM (Easy Local Storage Manager)** (DevTool)
-> *The "Blackbox" for Chrome LocalStorage, SessionStorage, Cookies and IndexedDB.*
-* **What it does:** A Chrome Extension that lets developers **Lock** specific storage keys (to prevent auto-logout during debugging) and **Log** all storage changes in real-time.
-* 👉 **[View on Chrome Web Store](https://easylocalstorage.dev)**
+
+> *The "Missing Power Tool" for Browser Storage & State Management.*
+
+**What it does:** A comprehensive Chrome DevTool that replaces the default Application tab with a powerful, developer-first editor. It unifies **LocalStorage, SessionStorage, Cookies, and IndexedDB** into a single interface.
+
+**Killer Features:**
+
+* 🔒 **State Locking:** "Lock" specific keys (like auth tokens) to prevent scripts from deleting them during debugging—no more random logouts.
+* 🕵️ **Real-Time Changelog:** Watch storage mutations happen live. See exactly *what* changed and *when*.
+* 📝 **Rich JSON Editor:** Edit complex objects and arrays directly without copy-pasting.
+* 🔐 **JWT Toolkit:** Built-in JWT Encoder/Decoder to inspect payloads instantly.
+* 💾 **Bulk Operations:** Import/Export your entire storage state via **JSON** or **CSV**, or copy to clipboard for quick sharing.
+
+👉 **[Visit the website](https://easylocalstorage.dev)**
 
 ---
 
